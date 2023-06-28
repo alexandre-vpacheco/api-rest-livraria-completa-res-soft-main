@@ -51,11 +51,6 @@ Insomnia_Endpoints_Collection.json
 ```bash
 mvnw spring-boot:run
 ```
-
-## Sobre
-
-- Author - [Alexandre Paixão]
-
 ## Licença
 
 GNU GPL

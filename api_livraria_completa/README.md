@@ -57,9 +57,9 @@ GNU GPL
 
 ```properties
 spring_profiles_active=prod
-PROD_DB_HOST=HOST_HERE
-PROD_DB_PORT=POST_HERE
+PROD_DB_HOST=containers-us-west-23.railway.app
+PROD_DB_PORT=5844
 PROD_DB_NAME=railway
-PROD_DB_PASSWORD=PASSWORD_HERE
+PROD_DB_PASSWORD=L3QuISzR0iBeivz4qxdN
 PROD_DB_USERNAME=postgres
 ```
